@@ -1,5 +1,5 @@
 # gltf-medieval-village-megakit
-This is the standard FREE version of @Quaternius's Medieval Village MegaKit as distributed [itch.io](https://quaternius.itch.io/medieval-village-megakit) on 2025-04-22 (with gltf files only to keep the repository as small as possible).
+This is the standard FREE version of @Quaternius's Medieval Village MegaKit as distributed on [itch.io](https://quaternius.itch.io/medieval-village-megakit) on 2025-04-22 (with gltf files only to keep the repository as small as possible).
 
 ![Preview image](Preview.jpg)
 
