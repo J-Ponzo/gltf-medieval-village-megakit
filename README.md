@@ -8,7 +8,7 @@ It only contains a portion of the models. You can buy the PRO version which has 
 You can get the other versions from the author's website https://quaternius.com
 
 # Licence :
-The original CC0 1.0 license of the original asset pack has been retained. Full details in [LICENSE](https://github.com/J-Ponzo/gltf-medieval-village-megakit/blob/main/LICENSE)
+This pack is licensed under CC0 1.0. Full details in [LICENSE](https://github.com/J-Ponzo/gltf-medieval-village-megakit/blob/main/LICENSE)
 
 # Author :
 I'm not the author of the asset. It was created by @Quaternius.
